@@ -1,0 +1,9 @@
+C:\School\CPA (2019 - Winter)\COMP 60\Assignment 2\COMP 60 - Assignment 2\COMP 60 - Assignment 2\bin\Debug\COMP 60 - Assignment 2.exe.config
+C:\School\CPA (2019 - Winter)\COMP 60\Assignment 2\COMP 60 - Assignment 2\COMP 60 - Assignment 2\bin\Debug\COMP 60 - Assignment 2.exe
+C:\School\CPA (2019 - Winter)\COMP 60\Assignment 2\COMP 60 - Assignment 2\COMP 60 - Assignment 2\bin\Debug\COMP 60 - Assignment 2.pdb
+C:\School\CPA (2019 - Winter)\COMP 60\Assignment 2\COMP 60 - Assignment 2\COMP 60 - Assignment 2\obj\Debug\COMP 60 - Assignment 2.csprojAssemblyReference.cache
+C:\School\CPA (2019 - Winter)\COMP 60\Assignment 2\COMP 60 - Assignment 2\COMP 60 - Assignment 2\obj\Debug\COMP_60___Assignment_2.Form1.resources
+C:\School\CPA (2019 - Winter)\COMP 60\Assignment 2\COMP 60 - Assignment 2\COMP 60 - Assignment 2\obj\Debug\COMP_60___Assignment_2.Properties.Resources.resources
+C:\School\CPA (2019 - Winter)\COMP 60\Assignment 2\COMP 60 - Assignment 2\COMP 60 - Assignment 2\obj\Debug\COMP 60 - Assignment 2.csproj.GenerateResource.cache
+C:\School\CPA (2019 - Winter)\COMP 60\Assignment 2\COMP 60 - Assignment 2\COMP 60 - Assignment 2\obj\Debug\COMP 60 - Assignment 2.exe
+C:\School\CPA (2019 - Winter)\COMP 60\Assignment 2\COMP 60 - Assignment 2\COMP 60 - Assignment 2\obj\Debug\COMP 60 - Assignment 2.pdb
